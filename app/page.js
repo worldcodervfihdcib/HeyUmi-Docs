@@ -94,7 +94,7 @@ export default function Home() {
         {/* Logo */}
         <div className="flex justify-center">
           <img
-            src="/logo.png"
+            src="/assets/Logo.png"
             alt="Umi"
             className="w-28 h-28 rounded-[28px] object-cover shadow-[0_0_60px_rgba(192,132,252,0.25)]"
           />
