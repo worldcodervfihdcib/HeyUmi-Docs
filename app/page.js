@@ -239,7 +239,7 @@ export default function Home() {
             <div className="mt-9 flex flex-wrap gap-4">
 
               <a
-                href={PLAY_STORE_URL}
+                href={"https://play.google.com/store/apps/details?id=com.heyumi.app&pcampaignid=web_share"}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group rounded-full bg-gradient-to-r from-[#F3A8C2] via-[#C084FC] to-[#5DCDE9] px-7 py-4 text-base font-bold text-[#1F2A52] shadow-[0_0_40px_rgba(243,168,194,0.25)] transition hover:scale-105"
